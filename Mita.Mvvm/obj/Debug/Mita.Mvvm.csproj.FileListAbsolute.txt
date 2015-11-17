@@ -1,0 +1,37 @@
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Mvvm.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\mscorlib.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\normidna.nlp
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\normnfc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\normnfd.nlp
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\normnfkc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\bin\Debug\normnfkd.nlp
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.cache
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm_MarkupCompile.lref
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Views\ChildViewPresenter.baml
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.g.resources
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.dll
+C:\Users\Alina\Desktop\MedicalClinic\Mita.Mvvm\obj\Debug\Mita.Mvvm.pdb

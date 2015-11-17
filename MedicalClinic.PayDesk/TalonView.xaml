@@ -1,0 +1,119 @@
+﻿<UserControl 
+    x:Class="MedicalClinic.PayDesk.TalonView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:viewModels="clr-namespace:MedicalClinic.PayDesk.ViewModels;assembly=MedicalClinic.PayDesk.ViewModels"
+    xmlns:views="clr-namespace:Mita.Mvvm.Views;assembly=Mita.Mvvm"
+    xmlns:model="clr-namespace:MedicalClinic.Model;assembly=MedicalClinic"
+    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+    xmlns:payDesk="clr-namespace:MedicalClinic.PayDesk"
+    xmlns:model1="clr-namespace:MedicalClinic.Model;assembly=MedicalClinic"
+    mc:Ignorable="d" Height="480" Width="640" 
+    d:DataContext="{d:DesignInstance viewModels:TalonViewModel}"
+    views:ChildViewPresenter.ViewResizeMode="CanMinimize"
+    >
+    <DockPanel Margin="5">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+            <Image Width="25" Source="1.png" Visibility="Visible" Margin="5,0" ></Image>
+            <TextBlock Text="Электронная регистратура" />
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+            <TextBlock Text="Client" VerticalAlignment="Center" />
+            <ComboBox ItemsSource="{Binding Clients}" SelectedItem="{Binding CurrentClient}"
+                      DisplayMemberPath="ShortName"
+                      MinWidth="200" Margin="10,0"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Right">
+
+            <!--<TextBlock Margin="5,0" Foreground="Red" Text="{Binding ErrorMessage}" />-->
+            <Button Content="Save" Command="{Binding SaveCommand}" />
+            <Button Content="Cancel" Command="{Binding CloseCommand}" IsCancel="True" />
+        </StackPanel>
+
+        <Grid Margin="0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="95"/>
+                <ColumnDefinition Width="105"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="9*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ListBox Grid.Column="0" Grid.Row="1"
+                     ItemsSource="{Binding Doctors}"
+                     SelectionChanged="Selector_OnSelectionChanged" Grid.ColumnSpan="2"
+                     >
+                <ListBox.ItemTemplate >
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock Text="{Binding Speciality}" FontWeight="Bold" />
+                            <TextBlock Text="{Binding ShortName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <DataGrid Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" 
+                      ItemsSource="{Binding SelectedDoctor}" SelectedItem="{Binding CurrentDoctor}" AutoGenerateColumns="False" 
+                      IsReadOnly="True" CanUserSortColumns="False" Grid.ColumnSpan="2" >
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Doctor">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding Speciality}" FontWeight="Bold" />
+                                    <TextBlock Text="{Binding ShortName}" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+
+                    <DataGridTemplateColumn Header="Price">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding Cost}" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Cabinet">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding Cabinet}" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="DateTime">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <TextBlock Text="{Binding CurrentTalon.DateStart}" />
+                                </StackPanel>
+
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+
+            </DataGrid>
+            <Label Content="Выбор времени" Height="40" Width="120" Margin="-4,385,84,-45"  VerticalAlignment="Top" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0" />
+            <ComboBox HorizontalAlignment="Left" Margin="4,385,0,-27" 
+                      Grid.Row="1" VerticalAlignment="Top" Width="120" 
+                      ItemsSource="{Binding CurrentDoctor.Talons}" DisplayMemberPath="DateStart" SelectedItem="{Binding CurrentTalon}" 
+                      RenderTransformOrigin="1.092,-0.045" Grid.ColumnSpan="2" Grid.Column="1" />
+        </Grid>
+
+
+    </DockPanel>
+</UserControl>

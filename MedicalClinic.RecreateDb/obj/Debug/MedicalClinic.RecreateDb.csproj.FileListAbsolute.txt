@@ -1,0 +1,36 @@
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.exe.config
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.exe
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.Core.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.xml
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.Core.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.csprojResolveAssemblyReference.cache
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.exe
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.exe.config
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.exe
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\obj\Debug\MedicalClinic.RecreateDb.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.exe
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.RecreateDb.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.RecreateDb\bin\Debug\Mita.Core.pdb

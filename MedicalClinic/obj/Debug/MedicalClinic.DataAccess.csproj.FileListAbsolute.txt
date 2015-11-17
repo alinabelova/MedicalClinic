@@ -1,0 +1,49 @@
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.dll.config
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.Core.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.EF.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.Mvvm.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.Core.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.EF.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Mita.Mvvm.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.xml
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.dll
+c:\users\svetlana\documents\visual studio 2013\Projects\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.dll.config
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.Mvvm.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\obj\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\mscorlib.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\normidna.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\normnfc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\normnfd.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\normnfkc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic\bin\Debug\normnfkd.nlp

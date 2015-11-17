@@ -1,0 +1,148 @@
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\LoginView.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\LoginView.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\App.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk_MarkupCompile.cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.g.resources
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.Properties.Resources.resources
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.csproj.GenerateResource.Cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.exe.config
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.exe
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Mvvm.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Core.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Core.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.exe
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Convention.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MetroAccent.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Office2007.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Convention.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Hosting.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Runtime.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MainWindowView.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\PriceView.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TalonView.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TimetableView.baml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MainWindowView.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\PriceView.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TalonView.g.cs
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TimetableView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.exe.config
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.exe
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\LoginView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MainWindowView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\PriceView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TalonView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TimetableView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\LoginView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MainWindowView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\PriceView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TalonView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\TimetableView.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\App.g.cs
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk_MarkupCompile.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.g.resources
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.Properties.Resources.resources
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.csproj.GenerateResource.Cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.exe
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Mef.CommonServiceLocator.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Mvvm.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Convention.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Hosting.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Runtime.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MetroAccent.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Office2007.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.AttributedModel.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Convention.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Hosting.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.Runtime.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\System.Composition.TypedParts.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk_MarkupCompile.lref
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\MedicalClinic.PayDesk.Form1.resources
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\RdlCompile.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\RdlCompile.compiled
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\ReportView.baml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk\obj\Debug\ReportView.g.cs

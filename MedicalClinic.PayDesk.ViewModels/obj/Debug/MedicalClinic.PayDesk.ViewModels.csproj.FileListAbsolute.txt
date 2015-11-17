@@ -1,0 +1,47 @@
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Svetlana\Documents\Visual Studio 2013\Projects\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.PayDesk.ViewModels.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Mvvm.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.EF.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\MedicalClinic.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.Mvvm.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\Mita.DataAccess.EF.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\obj\Debug\MedicalClinic.PayDesk.ViewModels.pdb
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\mscorlib.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\normidna.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\normnfc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\normnfd.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\normnfkc.nlp
+C:\Users\Alina\Desktop\MedicalClinic\MedicalClinic.PayDesk.ViewModels\bin\Debug\normnfkd.nlp

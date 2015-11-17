@@ -1,0 +1,85 @@
+﻿<UserControl 
+    x:Class="MedicalClinic.PayDesk.TimetableView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:viewModels="clr-namespace:MedicalClinic.PayDesk.ViewModels;assembly=MedicalClinic.PayDesk.ViewModels"
+    xmlns:views="clr-namespace:Mita.Mvvm.Views;assembly=Mita.Mvvm"
+    xmlns:model="clr-namespace:MedicalClinic.Model;assembly=MedicalClinic"
+    xmlns:xcdg="http://schemas.xceed.com/wpf/xaml/datagrid"
+    mc:Ignorable="d" d:DesignHeight="600" d:DesignWidth="800"
+    views:ChildViewPresenter.ViewMinHeight="600"
+    views:ChildViewPresenter.ViewMinWidth="800"
+    d:DataContext="{d:DesignInstance viewModels:TimetableViewModel}"
+    IsEnabled="{Binding IsFree}" >
+
+
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,5">
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                    <Setter Property="Margin" Value="5,0" />
+                    <Setter Property="FontWeight" Value="Bold" />
+                    <Setter Property="VerticalAlignment" Value="Center" />
+                </Style>
+            </StackPanel.Resources>
+            <Image Width="25" Source="1.png" Visibility="Visible" Margin="5,0" ></Image>
+            <TextBlock Text="Электронная регистратура" />
+            <Button Content="Create talon" Command="{Binding CreateTalonCommand}" Margin="515,0" />
+        </StackPanel>
+
+        <Grid Margin="5, 10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="15" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="15" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Doctor" Grid.Column="0" Grid.Row="0" />
+                <TextBlock Text="Last Name" Grid.Column="2" Grid.Row="0" />
+
+                <TextBox Grid.Column="0" Grid.Row="1"
+                         Text="{Binding Doctor, UpdateSourceTrigger=PropertyChanged}">
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Return" Command="{Binding SearchCommand}"/>
+                    </TextBox.InputBindings>
+                </TextBox>
+
+                <TextBox Grid.Column="2" Grid.Row="1"
+                         Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}">
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Return" Command="{Binding SearchCommand}"/>
+                    </TextBox.InputBindings>
+                </TextBox>
+
+                <Button Grid.Column="4" Grid.Row="1" Content="Search"  
+                        Command="{Binding SearchCommand}"/>
+            </Grid>
+            <DataGrid Grid.Row="1" Grid.Column="0"
+                      ItemsSource="{Binding Doctors}" AutoGenerateColumns="False"
+                                  Margin="0,10" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="FIO" Binding="{Binding LastName}" MinWidth="200" />
+                    <DataGridTextColumn Header="Speciality" Binding="{Binding Speciality}" MinWidth="140" />
+                    <DataGridTextColumn Header="Service Price" Binding="{Binding Cost}" Width="100"/>
+                    <DataGridTextColumn Header="Work hours" Binding="{Binding WorkHours}" Width="200" />
+                    <DataGridTextColumn Header="Cabinet" Binding="{Binding Cabinet}" />
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+    </DockPanel>
+</UserControl>

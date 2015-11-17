@@ -1,0 +1,5 @@
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.Core\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.Core\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.Core\obj\Debug\Mita.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.Core\obj\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.Core\obj\Debug\Mita.Core.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\bin\Debug\Mita.DataAccess.pdb
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\bin\Debug\Mita.Core.dll
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\bin\Debug\Mita.Core.pdb
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.dll
+C:\Users\Alina\Desktop\pr17-BookStore\Mita.DataAccess\obj\Debug\Mita.DataAccess.pdb
